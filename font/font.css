@@ -1,0 +1,61 @@
+@font-face {
+font-family: 'Montserrat Regular';
+src: url('Montserrat-Regular.eot');
+src: url('Montserrat-Regular.eot?#iefix') format('embedded-opentype'),
+url('Montserrat-Regular.woff') format('woff'),
+url('Montserrat-Regular.ttf') format('truetype');
+font-weight: normal;
+font-style: normal;
+}
+
+@font-face {
+font-family: 'Montserrat Bold';
+src: url('Montserrat-ExtraBold.eot');
+src: url('Montserrat-ExtraBold.eot?#iefix') format('embedded-opentype'),
+url('Montserrat-ExtraBold.woff') format('woff'),
+url('Montserrat-ExtraBold.ttf') format('truetype');
+font-weight: normal;
+font-style: normal;
+}
+
+@font-face {
+font-family: 'Poppins Semibold';
+src: url('Poppins-SemiBold.eot');
+src: url('Poppins-SemiBold.eot?#iefix') format('embedded-opentype'),
+url('Poppins-SemiBold.woff') format('woff'),
+url('Poppins-SemiBold.ttf') format('truetype');
+font-weight: normal;
+font-style: normal;
+}
+
+@font-face {
+font-family: 'Poppins Bold';
+src: url('Poppins-Bold.eot');
+src: url('Poppins-Bold.eot?#iefix') format('embedded-opentype'),
+url('Poppins-Bold.woff') format('woff'),
+url('Poppins-Bold.ttf') format('truetype');
+font-weight: normal;
+font-style: normal;
+}
+
+@font-face {
+font-family: 'Poppins Regular';
+src: url('Poppins-Regular.eot');
+src: url('Poppins-Regular.eot?#iefix') format('embedded-opentype'),
+url('Poppins-Regular.woff') format('woff'),
+url('Poppins-Regular.ttf') format('truetype');
+font-weight: normal;
+font-style: normal;
+}
+
+@font-face {
+font-family: 'Poppins Italic';
+src: url('Poppins-Italic.eot');
+src: url('Poppins-Italic.eot?#iefix') format('embedded-opentype'),
+url('Poppins-Italic.woff') format('woff'),
+url('Poppins-Italic.ttf') format('truetype');
+font-weight: normal;
+font-style: normal;
+}
+
+
